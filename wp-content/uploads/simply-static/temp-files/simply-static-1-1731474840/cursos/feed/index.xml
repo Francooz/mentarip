@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cursos &#8211; Mentari</title>
+	<atom:link href="https://francooz.github.io/mentarip/cursos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://francooz.github.io/mentarip</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Nov 2024 02:18:24 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://francooz.github.io/mentarip/wp-content/uploads/2024/11/file-1-1.png</url>
+	<title>Cursos &#8211; Mentari</title>
+	<link>https://francooz.github.io/mentarip</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Introducción a Python</title>
+		<link>https://francooz.github.io/mentarip/cursos/introduccion-a-python/</link>
+		
+		<dc:creator><![CDATA[Steven]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2024 21:37:50 +0000</pubDate>
+				<guid isPermaLink="false">https://francooz.github.io/mentarip/?post_type=courses#038;p=156</guid>
+
+					<description><![CDATA[Este curso está diseñado para quienes desean aprender Python desde cero. A través de lecciones claras y prácticas, te enseñaremos [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Este curso está diseñado para quienes desean aprender Python desde cero. A través de lecciones claras y prácticas, te enseñaremos los conceptos fundamentales de este popular lenguaje de programación, ideal tanto para novatos como para aquellos que desean reforzar su conocimiento.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducción a C#</title>
+		<link>https://francooz.github.io/mentarip/cursos/introduccion-a-c/</link>
+		
+		<dc:creator><![CDATA[Steven]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2024 20:08:11 +0000</pubDate>
+				<guid isPermaLink="false">https://francooz.github.io/mentarip/?post_type=courses#038;p=130</guid>
+
+					<description><![CDATA[Este curso de introducción a C# está diseñado para quienes desean dar sus primeros pasos en programación. Aprenderás a entender [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Este curso de introducción a C# está diseñado para quienes desean dar sus primeros pasos en programación. Aprenderás a entender la estructura y lógica del lenguaje, a crear programas simples y a familiarizarte con las herramientas fundamentales para el desarrollo en C#. A través de clases prácticas, conocerás los conceptos esenciales y ganarás la confianza necesaria para avanzar en el mundo de la programación.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducción a los LMS</title>
+		<link>https://francooz.github.io/mentarip/cursos/introduccion-a-los-lms/</link>
+		
+		<dc:creator><![CDATA[Hector]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2024 17:49:32 +0000</pubDate>
+				<guid isPermaLink="false">https://francooz.github.io/mentarip/?post_type=courses#038;p=127</guid>
+
+					<description><![CDATA[Adéntrate en el mundo de los Sistemas de Gestión del Aprendizaje (LMS) y descubre cómo estas plataformas revolucionan la educación [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Adéntrate en el mundo de los Sistemas de Gestión del Aprendizaje (LMS) y descubre cómo estas plataformas revolucionan la educación en línea. Aprende a crear, organizar y gestionar contenido educativo de forma eficiente, mientras exploras sus aplicaciones en instituciones educativas, empresas y proyectos personales. Este curso te proporcionará una base sólida para entender y aprovechar al máximo las herramientas que impulsan el aprendizaje digital.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducción a los CMS</title>
+		<link>https://francooz.github.io/mentarip/cursos/introduccion-a-los-cms/</link>
+		
+		<dc:creator><![CDATA[francoo]]></dc:creator>
+		<pubDate>Sun, 10 Nov 2024 03:06:43 +0000</pubDate>
+				<guid isPermaLink="false">https://francooz.github.io/mentarip/?post_type=courses#038;p=66</guid>
+
+					<description><![CDATA[Este curso está diseñado para introducir a los estudiantes en el mundo de los Sistemas de Gestión de Contenidos (CMS). [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Este curso está diseñado para introducir a los estudiantes en el mundo de los Sistemas de Gestión de Contenidos (CMS). A lo largo de este curso, aprenderás qué son los CMS, cómo funcionan, y cómo pueden ser utilizados para crear y gestionar sitios web de manera eficiente sin necesidad de conocimientos avanzados en programación. Descubrirás las principales herramientas disponibles en el mercado, y cómo elegir la adecuada según las necesidades de un proyecto.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
